@@ -80,7 +80,7 @@
     "default-shell": "^1.0.1",
     "dotenv": "^8.0.0",
     "dotenv-cli": "^5.1.0",
-    "electron": "^16.0.2",
+    "electron": "^31.7.2",
     "electron-builder": "^23.0.2",
     "electron-is-dev": "^2.0.0",
     "electron-rebuild": "^3.2.5",
